@@ -95,4 +95,4 @@ Program CPLEX okazał się skuteczny w znajdowaniu optymalnych rozwiązań probl
 
 ---
 
-Opracowanie oparte na sprawozdaniu dostępne w pliku `Sprawozdanie_KRączkowska_IPaniczek.pdf`.
+Opracowanie oparte na sprawozdaniu dostępne w pliku `Sprawozdanie_Wieże_Hanoi.pdf`.
