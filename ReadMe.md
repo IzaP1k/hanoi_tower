@@ -90,8 +90,8 @@ Program CPLEX okazał się skuteczny w znajdowaniu optymalnych rozwiązań probl
 
 ## Autorzy
 
-- Karolina Rączkowska
 - Iza Paniczek
+- Karolina Rączkowska
 
 ---
 
